@@ -1,4 +1,4 @@
-  # Workflow [No indentation required for naming the workflow]
+ # Workflow [No indentation required for naming the workflow]
  name: Hello
 
 # On tells when the workflow should run (Give indentation by tab)
@@ -16,4 +16,4 @@ jobs:
       # That ephermal container will have steps to execute, hence name those steps and use run: run has the command 
     steps:
       - name: Say hello to everyone
-        run: echo "Hello Dosto" 
+        run: echo "Hello Dosto"
